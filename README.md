@@ -1,2 +1,2 @@
 # myrepo
-Repository for Water Quali Standards researcch
+Repository for Water Quality Standards researcch
